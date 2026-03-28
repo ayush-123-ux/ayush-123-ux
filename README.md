@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Yenpreddiwar
 
-<!--
-**ayush-123-ux/ayush-123-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Engineer (Fresher)
+🎓 B.Tech in Computer Science Engineering (2026) | India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a DevOps and Cloud enthusiast focused on building real-world projects and gaining hands-on experience with modern tools and cloud platforms.
+
+I enjoy working on automation, containerization, and cloud deployments while continuously improving my skills.
+
+* 🔧 Working with AWS, Docker, Kubernetes and CI/CD
+* ⚙️ Learning infrastructure automation and cloud deployment
+* 📈 Practicing regularly to strengthen DevOps skills
+* 💬 Comfortable with Linux, Git, and scripting basics
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
+
+### 💻 Programming & Tools
+
+Python • Bash • Git • Linux
+
+### 📊 Monitoring & Logging
+
+Prometheus • Grafana
+
+---
+
+## 🚀 Projects
+
+### 🔹 Two-Tier Flask Application
+
+Built a backend-connected application using Docker with custom networking and database integration.
+
+### 🔹 Flask Application Deployment on AWS ECS
+
+Deployed a containerized Flask application on AWS ECS for scalable cloud deployment.
+
+### 🔹 CI/CD Pipeline Implementation
+
+Automated build and deployment process using Jenkins integrated with GitHub.
+
+---
+
+## 📫 Contact
+
+📧 [ayenpreddiwar22@gmail.com](mailto:ayenpreddiwar22@gmail.com)
+🔗 linkedin.com/in/ayush-yenpreddiwar-852a09324
+
+---
+
+💡 *Focused on learning DevOps by building real-world projects and improving consistently.*
