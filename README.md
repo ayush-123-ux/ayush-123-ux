@@ -1,7 +1,7 @@
-# Hi 👋, I'm Ayush Yenprediwar
+# Hi 👋, I'm Ayush Yenpreddiwar
 
 🚀 DevOps & Cloud Engineer (Fresher)
-🎓 B.Tech in Computer Science Engineering (2026) | India 🇮🇳
+🎓 B.Tech CSE 2026 | India 🇮🇳
 
 ---
 
@@ -20,6 +20,8 @@ I enjoy working on automation, containerization, and cloud deployments while con
 
 ## 🛠️ Tech Stack
 
+### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -27,12 +29,18 @@ I enjoy working on automation, containerization, and cloud deployments while con
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
+### 💻 Programming & Tools
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-123-ux&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-123-ux&layout=compact&theme=tokyonight)
+### 📊 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 ---
 
 ## 🚀 Projects
@@ -53,8 +61,9 @@ Automated build and deployment using Jenkins integrated with GitHub.
 
 ## 📫 Contact
 
-📧 [ayenpreddiwar22@gmail.com](mailto:ayenpreddiwar22@gmail.com)
-🔗 linkedin.com/in/ayush-yenpreddiwar-852a09324
+📧 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yenpreddiwar-852a09324)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayenpreddiwar22@gmail.com)
 
 ---
 
